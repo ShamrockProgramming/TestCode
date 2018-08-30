@@ -10,7 +10,7 @@ console.log(total);
 
 
 //new section on string variables
-let convo = "hello ";
+let convo = "hello ";adsfasdfasdf
 //set name to your name, first and last.
 let name;
 //add string convo and name together.
